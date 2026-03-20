@@ -26,7 +26,7 @@ I'm focused on building a strong foundation in programming and computer science 
 
 ## 📫 Get in Touch
 
-Feel free to reach out if you want to connect or collaborate on beginner-friendly projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaus-olesen-a0aa76387)
 
 ---
 
