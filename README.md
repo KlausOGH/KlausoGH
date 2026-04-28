@@ -20,8 +20,8 @@ I'm focused on building a strong foundation in programming and computer science 
 
 ## 📂 Repositories
 
-- **Java** — Object-oriented programming exercises (Lernfelder 8 & 11a)
-- **Python** — Scripting and problem-solving exercises
+- **[user-management-java-sql](https://github.com/KlausOGH/user-management-java-sql)** — Console app for user management with Java OOP and MySQL
+- **[java-oop-exercises](https://github.com/KlausOGH/java-oop-exercises)** — Java OOP exercises and fundamentals
 - *More to come as I build my own projects.*
 
 ## 📫 Get in Touch
